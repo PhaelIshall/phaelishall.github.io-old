@@ -13,15 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+# Σ 
+title: Σ ウイエム 
+email: "wiem.benrim(at)nlp.c.titech.ac.jp"
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+ "Graduate student, NLP enthusiast, avid gamer, occasional couch potato, sporadic app developer. "
+twitter_username: "@PhaelIshall"
+github_username: "PhaelIshall"
+minimal_mistakes_skin: "dark"
 search: true
 
 # Build settings
@@ -31,7 +30,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: TIMEZONE
 
 include:
   - _pages
@@ -58,34 +57,53 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name: "Wiem Ben Rim"
+  avatar: "/assets/images/pic.JPG"
+  bio: "Research Associate at NEC Laboratories Europe, MEng. Artificial Intelligence"
+  location: "Germany / Japan"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:wiem.benrim(at)nlp.c.titech.ac.jp"
+    - label: "Youtube"
+      icon: "fab fa-youtube"
+      url: "https://www.youtube.com/channel/UC_L41CokXok3edg46zTlb2A"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/PhaelIshall"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/phaelishall"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/survivingeducation"
+#     - label: "Email"
+#       icon: "fas fa-fw fa-envelope-square"
+#       url: "mailto:wiem.benrim(at)nlp.c.titech.ac.jp"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/phaelishall"
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://twitter.com/PhaelIshall"
+#     - label: "Instagram"
+#       icon: "fab fa-fw fa-instagram"
+#       url: "https://instagram.com/survivingeducation"
+#    - label: "Youtube"
+#       icon: "fab fa-youtube"
+#       url: "https://www.youtube.com/channel/UC_L41CokXok3edg46zTlb2A"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/PhaelIshall"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/phaelishall"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/survivingeducation"
 
 defaults:
   # _posts
