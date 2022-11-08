@@ -1,12 +1,29 @@
 ---
-title: "Welcome to Jekyll!"
+title: "AKBC2022 Highlights"
 date: 2019-04-18T15:34:30-04:00
 categories:
-  - blog
+  - Blog
 tags:
-  - Jekyll
-  - update
+  - AKBC2022
+  - conference
+  - London
+  - Natural Language Processing
+  - Transformers 
+  - Knowledge Graphs
 ---
+
+Last week AKBC2022 `link: https://www.akbc.ws/2022/` took place at the Barbican Center in London. 
+
+## Conference Venue
+
+## Invited Talks 
+
+## Workshops 
+
+## Papers 
+
+## Social Event at the Brewdog 
+
 
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
