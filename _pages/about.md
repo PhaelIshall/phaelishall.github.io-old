@@ -1,6 +1,9 @@
 ---
 permalink: /about/
 title: "About"
+header:
+  image: /assets/images/header.jpeg
+
 ---
 
 Hi there. My name is Wiem (wiː æm / ウイエム). I recently completed my Master's of Engineering in Artificial Intelligence at Tokyo Institute of Technology (東京工業大学）where I am member of Okazaki lab（岡崎研究室), a Natural Language Processing lab. Before that, I was also a member of Tsuruoka lab in the University of Tokyo（東京大学), as a research student. 
