@@ -109,7 +109,7 @@ defaults:
   # _posts
   - scope:
       path: "_posts"
-      type: tag
+      type: posts
     values:
       layout: single
       author_profile: true
@@ -117,6 +117,7 @@ defaults:
 #       comments: true
 #       share: true
       related: true
+      read_time: true
   # _pages
   - scope:
       path: "_pages"
