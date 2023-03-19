@@ -8,6 +8,7 @@ tags:
   - Commonsense Reasoning
   - BERT 
   - Transformers 
+teaser: https://user-images.githubusercontent.com/13065761/151680380-8d367cf0-8487-442b-a674-7ed3e9c1f445.jpeg
 ---
 
 ![commonsense](https://user-images.githubusercontent.com/13065761/151680380-8d367cf0-8487-442b-a674-7ed3e9c1f445.jpeg)
