@@ -36,6 +36,21 @@ teaser: /assets/images/header.jpeg
 include:
   - _pages
 
+gallery:
+  - url: https://www.wiembnr.com/blog/commonsense/
+    image_path: https://github.com/PhaelIshall/phaelishall.github.io/blob/master/assets/images/header.jpeg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: https://www.wiembnr.com/blog/commonsense/
+    image_path: https://github.com/PhaelIshall/phaelishall.github.io/blob/master/assets/images/header.jpeg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: https://www.wiembnr.com/blog/commonsense/
+    image_path: https://github.com/PhaelIshall/phaelishall.github.io/blob/master/assets/images/header.jpeg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
