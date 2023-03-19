@@ -109,7 +109,7 @@ defaults:
   # _posts
   - scope:
       path: "_posts"
-      type: posts
+      type: tag
     values:
       layout: single
       author_profile: true
