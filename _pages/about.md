@@ -15,5 +15,3 @@ I obtained my bachelor's of Science in Computer Science from the American Univer
 I was lucky to be the recipient of various scholarships and grants that covered my higher education journey, and therefore I am always happy to share my experience and help qualified and motivated people find better opportunities, if I can. 
 
 
-
-**Email:** wiem.benrim(at)nlp.c.titech.ac.jp
